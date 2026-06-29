@@ -93,7 +93,3 @@ src/
 - `npx expo start -c` — start the dev server with a cleared cache
 - `node scripts/gen-icons.mjs` — regenerate the app icon set from SVG
 - `npx tsc --noEmit` — type-check
-
-## License
-
-[MIT](LICENSE) © Vijay Diyyala
